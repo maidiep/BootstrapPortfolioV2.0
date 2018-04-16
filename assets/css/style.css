@@ -1,0 +1,30 @@
+
+.jumbotron.well {
+    background: url('../images/img2-1390077.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-top: 1em;
+    padding-top: 15em;
+    padding-bottom: 15em;
+ }
+
+ #bs-example-navbar-collapse-1 {
+    border: 80px;
+
+ }
+ p#intro {
+     font-size: 18px;
+     line-height: 30px;   
+ }
+
+ h1#name{
+    color: white;
+    font-size: 24px;
+ } 
+
+ p#copyright {
+    text-align: center;
+    background-color: #80bdc9;
+ }
